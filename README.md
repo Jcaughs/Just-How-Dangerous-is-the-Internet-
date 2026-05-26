@@ -19,12 +19,7 @@ This home lab project is meant to signify how bad it is to host an IoT device wi
 - Azure Virtual Network
 - Microsoft Defender Workbook (Sentinel)</b> 
 
-<h2>Simple Read/Write Python Script:</h2>
+<h2>Honeypot Connections Within 144 Hours:</h2>
 <div align="center">
-  <img src="./pythonScript.png" alt="PythonScript" width="700">
-</div>
-
-<h2>Modified Python Script to Target EventID 4625:</h2>
-<div align="center">
-  <img src="./revisedPythonScript.png" alt="Network Diagram" width="700">
+  <img src="4625EventIDMap.png" alt="PythonScript" width="900">
 </div>
