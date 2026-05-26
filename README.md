@@ -117,8 +117,8 @@ SecuityEvent
 - Now we're done! You should be looking at a map of the work populated with dots from where attackers attempt to access your VM.
 - You can play around with the map settings in the workbook to customize your view how you like.
 
-<b>My key takeaways from this home lab project:</b>
+<h2>My key takeaways from this home lab project:</h2>
 
-- Within an hour of setting up the honeypot, I had unauthorized users attempting to connect
+- Within an hour of setting up the honeypot, I had unauthorized users attempting to connect to my SOCLAB machine.
 - If I had been using default credentials such as Admin/Password, or Administrator/Password, I have no doubt my VM would have been broken into.
 - This goes to show that IoT devices simpy cannot be left on a network connected to the internet with default credentials.
